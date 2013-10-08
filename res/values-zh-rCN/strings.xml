@@ -263,7 +263,6 @@
     <string name="pref_camera_picturesize_entry_6mp">600万像素</string>
     <string name="pref_camera_picturesize_entry_12mp">1200万像素</string>
     <string name="pref_camera_picturesize_entry_9_7mp">970万像素</string>
-    <string name="pref_camera_picturesize_entry_8mp">800万像素</string>
     <string name="pref_camera_picturesize_entry_7_7mp">770万像素</string>
     <string name="pref_camera_picturesize_entry_5mp" msgid="2882928212030661159">"500万像素"</string>
     <string name="pref_camera_picturesize_entry_4_5mp">450万像素</string>
